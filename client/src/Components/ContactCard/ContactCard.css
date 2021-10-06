@@ -1,0 +1,28 @@
+.one-contact h5 {
+  text-align: center;
+}
+
+.one-contact span,
+.one-contact svg {
+  vertical-align: middle;
+  align-content: center;
+}
+
+.contact-infos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.add-contact {
+  display: flex;
+  flex-direction: column;
+}
+
+.add-contact div {
+  margin-top: 2%;
+}
+
+.add-contact svg {
+  margin: 2% 45%;
+}

@@ -1,0 +1,20 @@
+.add-contact {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2%;
+}
+
+.add-contact div,
+h2 {
+  margin: 0.5% 10%;
+}
+
+.add-contact button {
+  margin: 0.5% 50%;
+}
+
+.add-contact svg {
+  /* margin: 2%; */
+  display: flex;
+  justify-content: center;
+}
